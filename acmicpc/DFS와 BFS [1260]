@@ -54,6 +54,7 @@ int main(){
     dfs(V);
     cout << endl;
     bfs(V);
+    //Just to check the properties in vectors
     //for(int i = i; i <= N; i++){
     //    for(int j = 0; j < graph[i].size(); j++){
     //        printf("graph[%d][%d] : ",i,j);
