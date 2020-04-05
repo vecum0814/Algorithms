@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void){
+    char *ptr = NULL;
+    ptr = (char*)malloc(100);
+    
+    return 0;
+}
+
